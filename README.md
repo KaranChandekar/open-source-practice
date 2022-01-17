@@ -103,8 +103,6 @@ Hurray! You successfully have made your first contribution! 🎉
 ## list 
 
 [Pradumna Saraf](https://github.com/Pradumnasaraf)
-[Test]()
-[test2]()
 
 
 ### Don't forget to ⭐ this repo.
