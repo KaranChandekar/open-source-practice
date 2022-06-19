@@ -104,5 +104,7 @@ Hurray! You successfully have made your first contribution! 🎉
 
 [Pradumna Saraf](https://github.com/Pradumnasaraf)
 
+[Karan Chandekar](https://github.com/KaranChandekar)
+
 
 ### Don't forget to ⭐ this repo.
